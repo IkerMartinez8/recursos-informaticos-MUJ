@@ -1,4 +1,6 @@
 .horario {
-  background-color="orange"
-  text-align="center"
+  background-color="orange";
+  text-align="center";
+  border="2 solid black";
+  padding="7px";
 }
