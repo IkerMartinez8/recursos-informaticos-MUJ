@@ -4,3 +4,36 @@
   border="2 solid black";
   padding="7px";
 }
+body {
+    background-color: coral;
+}
+
+.par {
+    background-color: antiquewhite;
+}
+
+.ed {
+    background-color: aquamarine;
+}
+
+.iso {
+    background-color: azure;
+}
+.ipe {
+    background-color:burlywood
+}
+.lm {
+    background-color: blue;
+}
+.bd {
+    background-color: yellowgreen;
+}
+.ig {
+    background-color: olive;
+}
+.fh {
+    background-color: gray;
+}
+.pi {
+    background-color: rebeccapurple;
+}
