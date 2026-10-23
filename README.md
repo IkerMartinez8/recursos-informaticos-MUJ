@@ -1,2 +1,2 @@
-# recursos-informaticos-MUJ
-repositorio de prueba
+Proyecto informatico
+Horario de clases IES Balmis
